@@ -24,6 +24,7 @@ veggy <- cabbages
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+I've decided to upload the Numerical~Cat helper file since this problem in a numerical categorical type. vitC is a numerical v ariable that we will explain by Cult which is a factor variable. The factor variable is a categorical variable. This is how we knew what helper file to upload.
 
 # Results
 
