@@ -40,7 +40,7 @@ I've decided to upload the Numerical~Cat helper file since this problem in a num
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
-
+This is measuring the amount of vitamin C content that is dependent upon the cultivation. The bottom of the c52 box is higher than the c39 box. This shows significant difference between c52 and c39, where c39 is much lower.
 
 ### Numerical Descriptive Results
 
